@@ -39,3 +39,7 @@
 - Invite employees
 - Tweet about the meetup
 - 
+
+## Next Day
+- Tweet about the meetup
+- Follow up with the presenter
