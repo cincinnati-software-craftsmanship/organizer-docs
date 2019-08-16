@@ -1,0 +1,18 @@
+Cincinnati Software Craftsmanship welcomes {speaker_full_name}!
+
+Talk Description:
+{talk_description}
+
+----------------------------
+
+About {speaker_first_name}:
+{speaker_bio}
+
+----------------------------
+
+{if sponsor}
+A special thanks to {sponsor_name} for sponsoring the food this month!
+{endif sponsor}
+The food will arrive around 5:30 so feel free to stop in early.
+
+Please RSVP for the event to speed up the check-in process and (most importantly!) ensure that we order the correct amount of food.
