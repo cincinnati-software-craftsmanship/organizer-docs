@@ -1,11 +1,11 @@
 Cincinnati Software Craftsmanship welcomes {speaker_full_name}!
 
-Talk Description:
+TALK DESCRIPTION:
 {talk_description}
 
 ----------------------------
 
-About {speaker_first_name}:
+ABOUT {UPPERCASE_SPEAKER_FIRST_NAME}:
 {speaker_bio}
 
 ----------------------------
