@@ -10,9 +10,14 @@ ABOUT {UPPERCASE_SPEAKER_FIRST_NAME}:
 
 ----------------------------
 
+FOOD DETAILS:
 {if sponsor}
 A special thanks to {sponsor_name} for sponsoring the food this month!
 {endif sponsor}
 The food will arrive around 5:30 so feel free to stop in early.
 
 Please RSVP for the event to speed up the check-in process and (most importantly!) ensure that we order the correct amount of food.
+
+PARKING:
+There are a variety of parking options near Atrium Two. Most on-street parking is limited to 60 minutes or less, so a parking lot or garage is probably the best choice. If you are unfamiliar with parkng downtown, you can find parking options on the Best Parking website:
+https://www.bestparking.com/cincinnati-oh-parking/destinations/atrium-two-parking/?daily=1
