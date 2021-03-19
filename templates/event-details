@@ -1,12 +1,16 @@
-Cincinnati Software Craftsmanship welcomes {speaker_full_name}!
+📢 Cincinnati Software Craftsmanship welcomes {speaker_full_name}! 📢
 
-TALK DESCRIPTION:
+💬 TALK DESCRIPTION 💬
+
 {talk_description}
 
-----------------------------
+👋 ABOUT {UPPERCASE_SPEAKER_FIRST_NAME} 👋
 
-ABOUT {UPPERCASE_SPEAKER_FIRST_NAME}:
 {speaker_bio}
+
+Follow {speaker} on Social Media:
+🦜 Twitter 🦉 {twitter_url}
+🔗 LinkedIn 🔗 {linkedin_url}
 
 ----------------------------
 
