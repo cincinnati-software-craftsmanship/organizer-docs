@@ -16,4 +16,7 @@ Schedule (all times Eastern):
 6:00 - Meetup begins
 
 Upon completion of the presentation, we will restart the Zoom call. We would love to have you join us for some Q&A with attendees.
+
+Virtual Speaker Guide
+https://gitlab.com/cincinnati-software-craftsmanship/meetup-docs/-/blob/main/virtual-speaker-guide.md
 >>>
