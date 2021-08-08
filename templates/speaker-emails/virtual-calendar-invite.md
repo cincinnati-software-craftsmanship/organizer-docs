@@ -17,6 +17,6 @@ Schedule (all times Eastern):
 
 Upon completion of the presentation, we will restart the Zoom call. We would love to have you join us for some Q&A with attendees.
 
-Virtual Speaker Guide
-https://gitlab.com/cincinnati-software-craftsmanship/meetup-docs/-/blob/main/virtual-speaker-guide.md
+Speaker Guide
+https://craftsmanship.dev/speakers/
 >>>
